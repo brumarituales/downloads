@@ -1,0 +1,88 @@
+const rituales = [
+  {
+    nombre: "Comenzar\ncon Intención",
+    imagenCompleta: "img/ritual1.png",
+    url: "docs/1comenzarconintencion.pdf",
+    descarga: true,
+    acuarela: true,
+  },
+  {
+    nombre: "Anclaje y\nPresencia",
+    imagenCompleta: "img/ritual2.png",
+    url: "docs/2anclarintencion.pdf",
+    descarga: true,
+    acuarela: true,
+  },
+  {
+    nombre: "Desarrolla\ntu Empatía",
+    imagenCompleta: "img/ritual3.png",
+    url: "docs/3desarrollarempatia.pdf",
+    descarga: true,
+    acuarela: true,
+  },
+  {
+    nombre: "Autocuidado\nConsciente",
+    imagenCompleta: "img/ritual4.png",
+    url: "docs/4autocuidadoconsciente.pdf",
+    descarga: true,
+    acuarela: true,
+  },
+  {
+    nombre: "Practica \ntus Límites",
+    imagenCompleta: "img/ritual5.png",
+    url: "docs/5practicarlimites.pdf",
+    descarga: true,
+    acuarela: true,
+  },
+  {
+    nombre: "Habita \ntu Cuerpo",
+    imagenCompleta: "img/ritual6.png",
+    url: "docs/6habitatucuerpo.pdf",
+    descarga: true,
+    acuarela: true,
+  },
+  {
+    nombre: "Ritual de\nDescanso",
+    imagenCompleta: "img/ritual7.png",
+    url: "docs/7descanso.pdf",
+    descarga: true,
+    acuarela: true,
+  },
+  {
+    nombre: "Nutrición\nIntuitiva",
+    imagenCompleta: "img/ritual8.png",
+    url: "docs/0proximamente.pdf",
+    descarga: false,
+    acuarela: true,
+  },
+  {
+    nombre: "Tu Diálogo\nInterno",
+    imagenCompleta: "img/ritual9.png",
+    url: "docs/0proximamente.pdf",
+    descarga: false,
+    acuarela: true,
+  },
+  {
+    nombre: "Cuida tus\nRelaciones",
+    imagenCompleta: "img/ritual10.png",
+    url: "docs/0proximamente.pdf",
+    descarga: false,
+    acuarela: true,
+  },
+  {
+    nombre: "Crecimiento\nIntelectual",
+    imagenCompleta: "img/ritual11.png",
+    url: "docs/0proximamente.pdf",
+    descarga: false,
+    acuarela: true,
+  },
+  {
+    nombre: "",
+    imagenCompleta: "img/ritual0.png",
+    url: "docs/0proximamente.pdf",
+    descarga: false,
+    acuarela: false,
+  },
+]
+
+const data = rituales.toReversed();
