@@ -51,8 +51,8 @@ const rituales = [
   {
     nombre: "Nutrición\nIntuitiva",
     imagenCompleta: "img/ritual8.png",
-    url: "docs/0proximamente.pdf",
-    descarga: false,
+    url: "docs/8nutricion.pdf",
+    descarga: true,
     acuarela: true,
   },
   {
