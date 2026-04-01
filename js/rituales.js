@@ -65,8 +65,8 @@ const rituales = [
   {
     nombre: "Cuida tus\nRelaciones",
     imagenCompleta: "img/ritual10.png",
-    url: "docs/0proximamente.pdf",
-    descarga: false,
+    url: "docs/10relaciones.pdf",
+    descarga: true,
     acuarela: true,
   },
   {
