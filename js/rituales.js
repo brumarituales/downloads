@@ -72,8 +72,8 @@ const rituales = [
   {
     nombre: "Crecimiento\nIntelectual",
     imagenCompleta: "img/ritual11.png",
-    url: "docs/0proximamente.pdf",
-    descarga: false,
+    url: "docs/11crecimientointelectual.pdf",
+    descarga: true,
     acuarela: true,
   },
   {
